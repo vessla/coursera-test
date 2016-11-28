@@ -63,6 +63,7 @@ body {
 
 #main-text {
 	  background-color: #f6b319;
+	  min-height: 1000px;
 }
 /* END MAIN CONTENT */
 
